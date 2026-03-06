@@ -152,5 +152,29 @@ Existem duas possibilidades, injetar os dados diretamente no prompt (ctrl + c, c
 
 ## Exemplo de Contexto Montado
 
+O exemplo do contexto abaixo, se baseia originais da base de conhecimento, mas os sintetizam deixando apenas as informações mais relevantes otimizando assim o consumo de tokens. Entretanto, vale lembrar que mais importante do que economizar tokens, é ter todas as informações relevantes 
+DADOS DO CLIENTE: 
+- Nome: João Silva
+- Perfil: Moderado
+- Objetivo: Construir reserva de emergência
+- Reserva atual: R$ 10.000 (meta: R$ 15.000)
+
+RESUMO DE GASTOS: 
+
+- Moradia: R$ 1.300
+- Alimentação:  R$ 570
+- Transporte:  R$ 295
+- Saúde: 188
+- Lazer:  R$ 55,90
+- Total de saídas: 2.488,90
+
+PRODUTOS DISPONÍVEIS PARA EXPLICAR:
+
+  - Tesouro Selic (risco baixo)
+  - CDB Liquidez Diária (risco baixo)
+  - LCI/LCA (risco baixo
+  - Fundo Multimercado (risco médio)
+  - Fundo de Ações (risco alto)
+    
 
 ```
