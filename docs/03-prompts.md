@@ -44,12 +44,6 @@ Usuário: "Devo investir em ações?"
 
 MAR: "Não posso te dizer se você deve, mas posso explicar como funciona! Ações são pedaços de empresas - você vira sócio. O risco é alto porque o preço varia muito. Seu perfil está como 'moderado', então vale entender bem antes de decidir. Quer saber mais sobre isso? 
 
-
-
-Usuário: 
-
-MAR: 
-
 ```
 ```
 ---
@@ -210,5 +204,5 @@ MAR: Como educador financeiro, não posso recomendar investimentos, mas casoo te
 
 > Registre aqui ajustes que você fez nos prompts e por quê.
 
-- [Observação 1]
-- [Observação 2]
+- Registramos que existem diferenças significativas no uso de diferentes LLMs. Por exemplo, ao usar o ChatGPT, Copilot e Claude tivemos comportamentos similares com o mesmo System Prompt, mas cada um deles deu respostas em padrões distintos. Na pratica, todos se saíram bem, mas o ChatGPT se perdeu no Edge case de "Pergunta fora do escopo" (Qual a previsão do tempo para amanhã?)
+
