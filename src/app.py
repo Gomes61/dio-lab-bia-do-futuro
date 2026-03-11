@@ -56,7 +56,7 @@ Pergunta: {msg}"""
 import requests
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
-MODELO = "gemma3:1b"
+MODELO = "gpt-oss"
 
 def perguntar(prompt):
 
