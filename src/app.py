@@ -5,7 +5,7 @@ import requests
 
 # ============ CONFIGURAÇÃO ============
 OLLAMA_URL = "http://localhost: 11434/api/generate"
-MODELO = "gemma3:1b"
+MODELO = "gpt-oss"
 
 # ============ CARREGAR DADOS ============
 perfil = json.load(open('./data/perfil_investidor.json'))
